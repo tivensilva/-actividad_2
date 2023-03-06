@@ -3,7 +3,8 @@ import java.util.Scanner;
 
 public class punto_1 {
     /**
-     * @param args
+     * @author Stiven
+     * @ejercicio 3-18
      */
     public static void main(String[] args) {
         Scanner entryScanner = new Scanner(System.in);
