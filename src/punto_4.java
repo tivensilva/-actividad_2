@@ -1,5 +1,9 @@
 import java.util.Scanner;
 
+/*
+    Módulo 4 - Ejercicio propuesto 7
+*/
+
 public class punto_4 {
     public static void main(String[] args) {
 

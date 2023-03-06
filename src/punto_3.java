@@ -1,11 +1,12 @@
 import java.util.Scanner;
 import java.math.*;
 
+/*
+  Módulo 3 - Ejercicio propuesto 21
+*/
+
 public class punto_3 {
-    /*
-    
-     @ejercicio 3-19
-     */
+
     public static void main(String[] args) {
 
         //Definimos el scanner para obtener los datos

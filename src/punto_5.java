@@ -1,5 +1,10 @@
 import java.util.Scanner;
 
+
+/*
+    Módulo 4
+    Ejercicio resuelto Nº 10
+*/
 public class punto_5 {
     public static void main(String[] args) {
         

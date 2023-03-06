@@ -1,6 +1,10 @@
 import java.util.Scanner;
 import java.math.*;
 
+/*
+    Módulo 3 - Ejercicio propuesto 19
+ */
+
 public class punto_2 {
     /*
     Despúes de iniciada la clase procedemos con el esqueleto
