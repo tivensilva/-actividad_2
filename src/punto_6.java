@@ -24,5 +24,5 @@ public class punto_6 {
         } else {
             System.out.println("Los números son iguales");
         }
-    
+    }
 }
